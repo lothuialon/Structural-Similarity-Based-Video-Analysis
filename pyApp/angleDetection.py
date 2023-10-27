@@ -77,7 +77,7 @@ def process_video(vid):
 
 
 def main():
-    vid = cv2.VideoCapture('C:/Users/Can/Desktop/Yeni klasör (2)/staj/Heat.mp4')
+    vid = cv2.VideoCapture('')
     process_video(vid)
 
 if __name__ == "__main__":
